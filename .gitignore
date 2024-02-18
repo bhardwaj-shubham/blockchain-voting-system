@@ -1,0 +1,7 @@
+node_modules
+build
+package-lock.json
+Database_API/.env
+venv
+.python-3.9.10
+env
